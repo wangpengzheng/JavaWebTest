@@ -5,7 +5,6 @@ RemoteSystemsTempFiles
 *.bak
 *.txt
 *.vm
-.gitignore
 #svn
 .svn/
 # built application files
